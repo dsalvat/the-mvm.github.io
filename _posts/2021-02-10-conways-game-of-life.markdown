@@ -9,6 +9,7 @@ img: posts/20210210/Game_of_Life.jpg
 tags: [coding, python]
 author: Armando Maynez
 github: amaynez/GameOfLife/
+published: false
 ---
 <p>I&nbsp;am lately trying to take on coding again. It had always been a part of my life since my early years when I&nbsp;learned to program a Tandy Color Computer at the age of 8, the good old days.</p>
 

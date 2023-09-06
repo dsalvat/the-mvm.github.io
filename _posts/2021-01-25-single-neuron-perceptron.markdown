@@ -10,6 +10,7 @@ tags: [machine learning, coding, neural networks]
 author: Armando Maynez
 github:  amaynez/Perceptron/
 mathjax: yes
+published: false
 ---
 As an entry point to learning python and getting into Machine Learning, I decided to code from scratch the Hello World! of the field, a single neuron perceptron.
 

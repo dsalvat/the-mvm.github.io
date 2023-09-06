@@ -161,7 +161,7 @@ words_per_minute: 200 # default words per minute to be considered when calculati
 To configure the newsletter, please create an account in https://mailchimp.com, set up a web signup form and paste the link from the embed signup form in the `config.yml` file:
 ```YAML
 # Newsletter
-mailchimp: "https://github.us1.list-manage.com/subscribe/post?u=8ece198b3eb260e6838461a60&amp;id=397d90b5f4"
+mailchimp: "https://gmail.us21.list-manage.com/subscribe/post?u=31c2ab9e6fcaf7a55cbdf480a&amp"
 ```
 
 ### **STEP 4.**

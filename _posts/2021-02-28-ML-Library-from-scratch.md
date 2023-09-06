@@ -9,6 +9,7 @@ img: posts/20210228/MLLibrary.jpg
 tags: [machine learning, coding, neural networks, python]
 author: Armando Maynez
 github: amaynez/GenericNeuralNetwork/
+published: false
 ---
 It must sound crazy that in this day and age, when we have such a myriad of amazing machine learning libraries and toolkits all open sourced, all quite well documented and easy to use, I decided to create my own ML library from scratch.
 <center><img src="./assets/img/posts/20210228/ML_cloud.jpg" width="480px"></center>

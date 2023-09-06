@@ -10,6 +10,7 @@ tags: [machine learning, artificial intelligence, reinforcement learning, coding
 author: Armando Maynez
 github: amaynez/TicTacToe/
 toc: yes # leave empty or erase for no TOC
+published: false
 ---
 <center><img style="float: left;margin-right: 1em;" src='./assets/img/posts/20210318/Game_Screen.png' width="310" height="300"></center>
 
